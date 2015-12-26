@@ -1,0 +1,25 @@
+{
+  "name": "makerjs-<<YOUR DRAWING NAME HERE>>",
+  "version": "1.0.0",
+  "description": "<<YOUR DESCRIPTION HERE>>",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "<<YOUR GIT REPO URL HERE>>"
+  },
+  "keywords": [
+    "makerjs"
+  ],
+  "author": "<<YOUR NAME HERE>>",
+  "license": "<<YOUR LICENSE TYPE HERE>>",
+  "bugs": {
+    "url": "<<YOUR BUG TRACKER URL>>"
+  },
+  "homepage": "<<HOMEPAGE URL FOR YOUR DRAWING HERE>>",
+  "dependencies": {
+    "makerjs": "^0.6.1"
+  }
+}
