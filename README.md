@@ -1,5 +1,5 @@
 # makerjs-template
-A template for MakerJs drawing packages
+A template repo for a [Maker.js](http://microsoft.github.io/maker.js/) drawing
 
 1. Fork this repo.
 2. Rename your copy of the repo.
